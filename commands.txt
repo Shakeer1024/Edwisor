@@ -1,0 +1,19 @@
+To add new files
+-------------------------------
+git add "file name"
+
+
+To remove added files
+----------------------------
+git rm -r "file name"
+
+
+To commit Changes and upload to master github account
+--------------------------------------------------------
+git commit -m "comments"
+git push -u origin master
+
+
+To check the status of activity
+------------------------------------------
+git status
